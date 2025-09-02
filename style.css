@@ -1,8 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .c0{
     text-align: center;
     background-color: beige;
-    margin: 150px;
-    padding: 50px;
+    margin: 100%;
+    padding: 50%
     
     
 }
